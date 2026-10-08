@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix ভিজিবেল মোগলাবাজার - Moglabazar Portal",
+  "description": "ভিজিবেল মোগলাবাজার - মোগলাবাজার ইউনিয়ন ও থানার ডিজিটাল তথ্য, জনসেবা, স্বাস্থ্য, শিক্ষা ও নাগরিক পোর্টাল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
